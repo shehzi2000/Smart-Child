@@ -1,0 +1,6 @@
+{
+  "name": "Smart Child — Smart Future",
+  "description": "Smart Child helps children and parents build a healthier relationship with technology through physical activity, creativity, AI learning, healthy habits and practical digital skills.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
